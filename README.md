@@ -1,4 +1,5 @@
-![Sasuke Uchiha](https://images-ext-1.discordapp.net/external/Z43ua6Cta4tHxB_UMid2jsM03dJ_u5fPVIj3p3bauks/https/media.tenor.com/9Um_IiUQmxsAAAAe/sasuke-uchiha.png)
+![Sasuke Uchiha](./assets/sasuke-uchiha.gif)
+
 
 <img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/3fbbb0b3-1416-479f-af2f-f4d84418ba19" />
 
