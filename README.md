@@ -1,4 +1,7 @@
-![Sasuke Uchiha](./assets/sasuke-uchiha.gif)
+<p align="center">
+  <img src="./assets/sasuke-uchiha.gif" alt="Sasuke Uchiha" />
+</p>
+
 
 
 <img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/3fbbb0b3-1416-479f-af2f-f4d84418ba19" />
