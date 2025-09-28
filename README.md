@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/sasuke-uchiha.gif" alt="Sasuke Uchiha" />
-</p>
+![Sasuke Uchiha](assets/sasuke-uchiha.gif)
 
 
 
