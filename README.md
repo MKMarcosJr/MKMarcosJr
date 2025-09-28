@@ -1,4 +1,4 @@
-sasuke-uchiha.gif
+https://github.com/MKMarcosJr/imagem/blob/0c6d78a3e2882e80ba274acb1626597640634f77/sasuke-uchiha.gif
 
 
 <img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/3fbbb0b3-1416-479f-af2f-f4d84418ba19" />
