@@ -4,9 +4,10 @@
 
 
 <a href="https://github.com/MKMarcosJr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MKMarcosJr&show_icons=true&theme=dark&line_height=27" alt="Estatísticas do github de Marcos"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MKMarcosJr&show_icons=true&title_color=9d4edd&text_color=c77dff&icon_color=7b2cbf&bg_color=0d1117" />
 </a>
 
 <a href="https://github.com/MKMarcosJr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKMarcosJr&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKMarcosJr&title_color=9d4edd&text_color=c77dff&bg_color=0d1117" />
 </a>
+
